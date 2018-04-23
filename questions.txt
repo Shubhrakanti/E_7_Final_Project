@@ -1,0 +1,4 @@
+1) Can I use tdlread and put data into structs?
+    How can I make sure that the right format of file is getting inserted?
+    What if they get different column names
+2) What am I suppoused to plot?
